@@ -1,10 +1,11 @@
+<<<<<<< HEAD
 Hotel Management System (HMS) developed for managing small hotel's or guess house in Web Base and written in PHP with admin panel and customer dashboard
 
-<h2>PHP 5.1.6 or newer</h2>
-<h2>Mysql</h2>
-<h2>Codeignither 2.1.2</h2>
-<h2>Bootstrap 3.0</h2>
-<h2>jquery 1.7</h2>
+PHP 5.1.6 or newer</br>
+Mysql</br>
+Codeignither 2.1.2</br>
+Bootstrap 3.0</br>
+jquery 1.7</br>
 
 
 
@@ -19,3 +20,6 @@ Hotel Management System (HMS) developed for managing small hotel's or guess hous
 </ul>
 
 
+=======
+Hotel Management System (HMS) developed for managing small hotel's or guess house in Web Base and written with PHP
+>>>>>>> 0e806ebf6c563e689bc32c561730e12a10b05332
