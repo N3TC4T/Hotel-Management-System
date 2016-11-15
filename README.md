@@ -28,5 +28,4 @@ Admin Dashboard:
 ![hotel management system-2](https://cloud.githubusercontent.com/assets/6250203/20296838/4b6868ce-ab22-11e6-85bb-3bc118658c23.png)
 ![hotel management system-3](https://cloud.githubusercontent.com/assets/6250203/20296849/5b46792a-ab22-11e6-9f57-1793d3276e1c.png)
 ![hotel management system-4](https://cloud.githubusercontent.com/assets/6250203/20296852/65c41a9c-ab22-11e6-84a0-e31ecc9e7a2f.png)
-![hotel management system-5](https://cloud.githubusercontent.com/assets/6250203/20296860/6ca3b7aa-ab22-11e6-996f-b7e10ff2d15e.png)
 
